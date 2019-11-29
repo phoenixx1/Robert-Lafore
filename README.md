@@ -24,6 +24,21 @@ This chapter introduces some basic fundamentals to write some elementry program 
 ### Chapter 3: Loops and Decisions
 In this chapter loops and decisions statements are introduced. This chapter teaches us some fundamentals of loop and decisions along with some detail descritions.
 
+|Ques. No.|Pg. No.|Question|Solution|
+|---------|-------|--------|--------|
+|1.|126|Table of multiples|[C++](./Chapter-3/1.cpp)|
+|2.|126|Temp. Conversion|[C++](./Chapter-3/2.cpp)|
+|3.|126|Displaying numbers|[C++](./Chapter-3/3.cpp)|
+|4.|127|Fraction Calculator|[C++](./Chapter-3/4.cpp)|
+|5.|127|X Pyramid|[C++](./Chapter-3/5.cpp)|
+|6.|127|Factorial|[C++](./Chapter-3/6.cpp)|
+|7.|127|Compound Interest|[C++](./Chapter-3/7.cpp)|
+|8.|128|Currency addition|[C++](./Chapter-3/8.cpp)|
+|9.|128|Party problem|[C++](./Chapter-3/9.cpp)|
+|10.|128|Compound Interest inverse|[C++](./Chapter-3/10.cpp)|
+|11.|128|3-function calculator|[C++](./Chapter-3/11.cpp)|
+|12.|129|Fraction Calculator|[C++](./Chapter-3/12.cpp)|
+
 ### Chapter 4: Structures
 This chapter is devoted to structures. It teaches us to organsie some simple variables into complex entities. In other words we can say that it helps to create some user define data types.
 
