@@ -20,7 +20,7 @@ int main(){
 	cin >> interest;
 
 	for(int i=0; i<year; i++){
-		compound = amount + (amount * (5.5/100));
+		compound = amount + (amount * (interest/100));
 		amount = compound;
 	}
 	cout << endl << "At the end of " << year << ", you will have " << compound << " dollars." << endl;
