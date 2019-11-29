@@ -5,8 +5,9 @@ Solutions to exercises.
 
 ### Chapter 2: C++ Programming Basics
 This chapter introduces some basic fundamentals to write some elementry program in C++. It introduces three such fundamentals: basic programming construction, variables, and input/output (I/O).
+
 |Ques. No.|Pg. No.|Question|Solution|
-|-----|--------|--------|--------|
+|---------|-------|--------|--------|
 |1.|71|Conversion|[C++](./Chapter-2/1.cpp)|
 |2.|71|Table Generation|[C++](./Chapter-2/2.cpp)|
 |3.|71|Generate the following output|[C++](./Chapter-2/3.cpp)|
