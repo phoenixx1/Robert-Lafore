@@ -44,7 +44,6 @@ int main(){
 			default:
 				cout << "Invalid option";
 				break;
-		
 		}
 		cout << "Do you want to continue (y/n): ";
 		cin >> ch;
