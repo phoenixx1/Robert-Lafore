@@ -3,7 +3,8 @@ Object-Oriented Programming in C++
 
 Solutions to exercises.
 
-### Chapter-2
+### Chapter 2: C++ Programming Basics
+This chapter introduces some basic fundamentals to write some elementry program in C++. It introduces three such fundamentals: basic programming construction, variables, and input/output (I/O).
 |Ques. No.|Pg. No.|Question|Solution|
 |-----|--------|--------|--------|
 |1.|71|Conversion|[C++](./Chapter-2/1.cpp)|
@@ -18,3 +19,15 @@ Solutions to exercises.
 |10.|73|Currency Conversion|[C++](./Chapter-2/10.cpp)|
 |11.|73|Left-Justify Text|[C++](./Chapter-2/11.cpp)|
 |12.|73|Currency Conversion|[C++](./Chapter-2/12.cpp)|
+
+### Chapter 3: Loops and Decisions
+In this chapter loops and decisions statements are introduced. This chapter teaches us some fundamentals of loop and decisions along with some detail descritions.
+
+### Chapter 4: Structures
+This chapter is devoted to structures. It teaches us to organsie some simple variables into complex entities. In other words we can say that it helps to create some user define data types.
+
+### Chapter 5: Functions
+This chapter is dedicated to functions. A function groups a number of program statements into a unit and give it a name. Function helps to aid in the conceptual organization of a programs.
+
+### Chapter 6: Objects and Classes
+This chapter introduces the concepts of class and objects. Class is a specification or blueprint for a number of objects while an Object is an instance of a Class.
