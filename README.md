@@ -42,6 +42,21 @@ In this chapter loops and decisions statements are introduced. This chapter teac
 ### Chapter 4: Structures
 This chapter is devoted to structures. It teaches us to organsie some simple variables into complex entities. In other words we can say that it helps to create some user define data types.
 
+|Ques. No.|Pg. No.|Question|Solution|
+|---------|-------|--------|--------|
+|1.|158|Phone number|[C++](./Chapter-4/1.cpp)|
+|2.|158|Coordinates|[C++](./Chapter-4/2.cpp)|
+|3.|158|Volume|[C++](./Chapter-4/3.cpp)|
+|4.|158|Emp Info|[C++](./Chapter-4/4.cpp)|
+|5.|159|Date|[C++](./Chapter-4/5.cpp)|
+|6.|159|Enum|[C++](./Chapter-4/6.cpp)|
+|7.|159|Enum+Date|[C++](./Chapter-4/7.cpp)|
+|8.|159|Fraction|[C++](./Chapter-4/8.cpp)|
+|9.|159|Time|[C++](./Chapter-4/9.cpp)|
+|10.|160|Currency Conversion|[C++](./Chapter-4/10.cpp)|
+|11.|160|Time addition|[C++](./Chapter-4/11.cpp)|
+|12.|160|Fraction calculator|[C++](./Chapter-4/12.cpp)|
+
 ### Chapter 5: Functions
 This chapter is dedicated to functions. A function groups a number of program statements into a unit and give it a name. Function helps to aid in the conceptual organization of a programs.
 
