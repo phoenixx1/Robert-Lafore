@@ -60,5 +60,20 @@ This chapter is devoted to structures. It teaches us to organsie some simple var
 ### Chapter 5: Functions
 This chapter is dedicated to functions. A function groups a number of program statements into a unit and give it a name. Function helps to aid in the conceptual organization of a programs.
 
+|Ques. No.|Pg. No.|Question|Solution|
+|---------|-------|--------|--------|
+|1.|212|Circle Area|[C++](./Chapter-5/1.cpp)|
+|2.|212|Power function|[C++](./Chapter-5/2.cpp)|
+|3.|212|Smaller|[C++](./Chapter-5/3.cpp)|
+|4.|212|Larger Distance|[C++](./Chapter-5/4.cpp)|
+|5.|212|Time functions|[C++](./Chapter-5/5.cpp)|
+|6.|212|Adding Time using Structure|[C++](./Chapter-5/6.cpp)|
+|7.|213|Double(DT) Power|[C++](./Chapter-5/7.cpp)|
+|8.|213|Swap number|[C++](./Chapter-5/8.cpp)|
+|9.|213|Swap Time|[C++](./Chapter-5/9.cpp)|
+|10.|213|Count value|[C++](./Chapter-5/10.cpp)|
+|11.|213|Add Currency|[C++](./Chapter-5/11.cpp)|
+|12.|213|Calculator|[C++](./Chapter-5/12.cpp)|
+
 ### Chapter 6: Objects and Classes
 This chapter introduces the concepts of class and objects. Class is a specification or blueprint for a number of objects while an Object is an instance of a Class.
