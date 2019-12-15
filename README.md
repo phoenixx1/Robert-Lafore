@@ -77,3 +77,18 @@ This chapter is dedicated to functions. A function groups a number of program st
 
 ### Chapter 6: Objects and Classes
 This chapter introduces the concepts of class and objects. Class is a specification or blueprint for a number of objects while an Object is an instance of a Class.
+
+|Ques. No.|Pg. No.|Question|Solution|
+|---------|-------|--------|--------|
+|1.|259|Model Int datatype|[C++](./Chapter-6/1.cpp)|
+|2.|259|Model tollboth|[C++](./Chapter-6/2.cpp)|
+|3.|260|Model Time data|[C++](./Chapter-6/3.cpp)|
+|4.|260|Employee details|[C++](./Chapter-6/4.cpp)|
+|5.|260|I/O Date|[C++](./Chapter-6/5.cpp)|
+|6.|260|Employee class|[C++](./Chapter-6/6.cpp)|
+|7.|260|Ocean Nav.|[C++](./Chapter-6/7.cpp)|
+|8.|261|Assigned S.No.|[C++](./Chapter-6/8.cpp)|
+|9.|261|Fraction addition|[C++](./Chapter-6/9.cpp)|
+|10.|261|Ship Pos.&S.No.|[C++](./Chapter-6/10.cpp)|
+|11.|262|Fraction Calculator|[C++](./Chapter-6/11.cpp)|
+|12.|262|Fraction Mul. Table|[C++](./Chapter-6/12.cpp)|
