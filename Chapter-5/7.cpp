@@ -1,5 +1,8 @@
 /*
-Function Overoading
+Start with the power() function of Exercise 2, which works only with type double .
+Create a series of overloaded functions with the same name that, in addition to double ,
+also work with types char , int , long , and float . Write a main() program that exercises
+these overloaded functions with all argument types.
 */
 
 //author @Nishant

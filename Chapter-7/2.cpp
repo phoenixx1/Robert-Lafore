@@ -1,5 +1,11 @@
 /*
-
+Create a class called employee that contains a name (an object of class string ) and an
+employee number (type long ). Include a member function called getdata() to get data
+from the user for insertion into the object, and another function called putdata() to
+display the data. Assume the name has no embedded blanks.
+Write a main() program to exercise this class. It should create an array of type employee ,
+and then invite the user to input data for up to 100 employees. Finally, it should print out
+the data for all the employees.
 */
 //author @Nishant
 

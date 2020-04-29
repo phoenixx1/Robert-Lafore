@@ -1,3 +1,8 @@
+/*
+Start with the fraction class from Exercises 11 and 12 in Chapter 6. Write a main()
+program that obtains an arbitrary number of fractions from the user, stores them in an
+array of type fraction , averages them, and displays the result.
+*/
 //author @Nishant
 
 #include<bits/stdc++.h>

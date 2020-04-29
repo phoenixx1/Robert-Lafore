@@ -1,5 +1,9 @@
 /*
-multiplication table of a fraction.
+Note that one advantage of the OOP approach is that an entire class can be used, without
+modification, in a different program. Use the fraction class from Exercise 11 in a pro-
+gram that generates a multiplication table for fractions. Let the user input a denominator,
+and then generate all combinations of two such fractions that are between 0 and 1, and
+multiply them together. Here’s an example of the output if the denominator is 6
 */
 
 // author @Nishant

@@ -1,5 +1,11 @@
 /*
-pyramid of Xs on the screen
+Use for loops to construct a program that displays a pyramid of Xs on the screen. The
+pyramid should look like this
+		X
+	   XXX
+	  XXXXX
+	 XXXXXXX
+	XXXXXXXXX
 */
 
 // author @Nishant

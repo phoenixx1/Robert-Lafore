@@ -1,5 +1,10 @@
 /*
-Total Conversion
+Start with the program from Exercise 11 in Chapter 4, “Structures,” which adds two
+struct time values. Keep the same functionality, but modify the program so that it uses
+two functions. The first, time_to_secs() , takes as its only argument a structure of type time ,
+and returns the equivalent in seconds (type long ). The second function,
+takes as its only argument a time in seconds (type long ), and returns a
+structure of type time .
 */
 
 //author @Nishant

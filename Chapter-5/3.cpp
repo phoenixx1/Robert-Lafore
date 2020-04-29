@@ -1,5 +1,7 @@
 /*
-BigOrSmall
+Write a function called zeroSmaller() that is passed two int arguments by reference
+and then sets the smaller of the two numbers to 0. Write a main() program to exercise
+this function.
 */
 
 //author @Nishant

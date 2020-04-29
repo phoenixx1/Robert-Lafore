@@ -1,5 +1,9 @@
 /*
-averages an array of Distance objects input by user
+Write a program that calculates the average of up to 100 English distances input by the
+user. Create an array of objects of the Distance class, as in the ENGLARAY example in
+this chapter. To calculate the average, you can borrow the add_dist() member function
+from the ENGLCON example in Chapter 6. You’ll also need a member function that divides
+a Distance value by an integer. Here’s one possibility:
 */
 
 //author @Nishant

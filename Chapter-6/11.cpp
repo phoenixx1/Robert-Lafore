@@ -1,5 +1,11 @@
 /*
-Program to perform operation on 2 fractional numbers
+Modify the four-function fraction calculator of Exercise 12 in Chapter 5 to use a
+fraction class rather than a structure. There should be member functions for input and
+output, as well as for the four arithmetical operations. While you’re at it, you might as
+well install the capability to reduce fractions to lowest terms. Here’s a member function
+that will reduce the fraction object of which it is a member to lowest terms. It finds the
+greatest common divisor (gcd) of the fraction’s numerator and denominator, and uses this
+gcd to divide both numbers.
 */
 
 // author @Nishant

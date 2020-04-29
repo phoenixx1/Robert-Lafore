@@ -1,5 +1,8 @@
 /*
-Program to create an employee class and alows the user to set data for three employees.
+Create an employee class, basing it on Exercise 4 of Chapter 4. The member data should
+comprise an int for storing the employee number and a float for storing the employee’s
+compensation. Member functions should allow the user to enter this data and display it.
+Write a main() that allows the user to enter data for three employees and display it.
 */
 
 // author @Nishant

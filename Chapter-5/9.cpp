@@ -1,5 +1,6 @@
 /*
-Swap Time structure
+Repeat Exercise 8, but instead of two int variables, have the swap() function inter-
+change two struct time values (see Exercise 6).
 */
 
 //author @Nishant
