@@ -92,3 +92,21 @@ This chapter introduces the concepts of class and objects. Class is a specificat
 |10.|261|Ship Pos.&S.No.|[C++](./Chapter-6/10.cpp)|
 |11.|262|Fraction Calculator|[C++](./Chapter-6/11.cpp)|
 |12.|262|Fraction Mul. Table|[C++](./Chapter-6/12.cpp)|
+
+### Chapter 7: Arrays and Strings
+In this chapter we’ll look first at arrays of basic data types such as int and char . Then we’ll examine arrays used as data members in classes, and arrays used to hold objects. Thus this chapter is intended not only to introduce arrays, but to increase your understanding of object-oriented programming.
+
+|Ques. No.|Pg. No.|Question|Solution|
+|---------|-------|--------|--------|
+|1.|313|Reverse a C-String|[C++](./Chapter-7/1.cpp)|
+|2.|314|Employee Details|[C++](./Chapter-7/2.cpp)|
+|3.|314|Avg of english distances|[C++](./Chapter-7/3.cpp)|
+|4.|314|Max Int|[C++](./Chapter-7/4.cpp)|
+|5.|314|Average fraction Number|[C++](./Chapter-7/5.cpp)|
+|6.|314|Contract bridge Game|[C++](./Chapter-7/6.cpp)|
+|7.|314|Group Money|[C++](./Chapter-7/7.cpp)|
+|8.|315|Safe Array|[C++](./Chapter-7/8.cpp)|
+|9.|315|Stack Array|[C++](./Chapter-7/9.cpp)|
+|10.|316|Safe array|[C++](./Chapter-7/10.cpp)|
+|11.|316|Convert Number|[C++](./Chapter-7/11.cpp)|
+|12.|317|String to long doube|[C++](./Chapter-7/12.cpp)|
