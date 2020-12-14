@@ -1,0 +1,2252 @@
+[
+  {
+    "Date": "02-Jan-2012",
+    "Open": 4640.2,
+    "High": 4645.95,
+    "Low": 4588.05,
+    "Close": 4636.75,
+    "Shares Traded": 108460668,
+    "Turnover (Rs. Cr)": 3590.96
+  },
+  {
+    "Date": "03-Jan-2012",
+    "Open": 4675.8,
+    "High": 4773.1,
+    "Low": 4675.8,
+    "Close": 4765.3,
+    "Shares Traded": 146621115,
+    "Turnover (Rs. Cr)": 5021.29
+  },
+  {
+    "Date": "04-Jan-2012",
+    "Open": 4774.95,
+    "High": 4782.85,
+    "Low": 4728.85,
+    "Close": 4749.65,
+    "Shares Traded": 165938849,
+    "Turnover (Rs. Cr)": 5661.16
+  },
+  {
+    "Date": "05-Jan-2012",
+    "Open": 4749,
+    "High": 4779.8,
+    "Low": 4730.15,
+    "Close": 4749.95,
+    "Shares Traded": 177862936,
+    "Turnover (Rs. Cr)": 5873.79
+  },
+  {
+    "Date": "06-Jan-2012",
+    "Open": 4724.15,
+    "High": 4794.9,
+    "Low": 4686.85,
+    "Close": 4754.1,
+    "Shares Traded": 176057282,
+    "Turnover (Rs. Cr)": 5234.69
+  },
+  {
+    "Date": "07-Jan-2012",
+    "Open": 4755.6,
+    "High": 4759.4,
+    "Low": 4743.05,
+    "Close": 4746.9,
+    "Shares Traded": 18783880,
+    "Turnover (Rs. Cr)": 414.88
+  },
+  {
+    "Date": "09-Jan-2012",
+    "Open": 4747.55,
+    "High": 4758.7,
+    "Low": 4695.45,
+    "Close": 4742.8,
+    "Shares Traded": 147534537,
+    "Turnover (Rs. Cr)": 4548.3
+  },
+  {
+    "Date": "10-Jan-2012",
+    "Open": 4771.85,
+    "High": 4855.9,
+    "Low": 4768.25,
+    "Close": 4849.55,
+    "Shares Traded": 201661174,
+    "Turnover (Rs. Cr)": 6222.27
+  },
+  {
+    "Date": "11-Jan-2012",
+    "Open": 4863.15,
+    "High": 4877.2,
+    "Low": 4841.6,
+    "Close": 4860.95,
+    "Shares Traded": 209079758,
+    "Turnover (Rs. Cr)": 6364
+  },
+  {
+    "Date": "12-Jan-2012",
+    "Open": 4840.95,
+    "High": 4869.2,
+    "Low": 4803.9,
+    "Close": 4831.25,
+    "Shares Traded": 183068697,
+    "Turnover (Rs. Cr)": 7271.44
+  },
+  {
+    "Date": "13-Jan-2012",
+    "Open": 4861.95,
+    "High": 4898.85,
+    "Low": 4834.2,
+    "Close": 4866,
+    "Shares Traded": 230940604,
+    "Turnover (Rs. Cr)": 7117.5
+  },
+  {
+    "Date": "16-Jan-2012",
+    "Open": 4844,
+    "High": 4880.8,
+    "Low": 4827.05,
+    "Close": 4873.9,
+    "Shares Traded": 160479891,
+    "Turnover (Rs. Cr)": 5297.89
+  },
+  {
+    "Date": "17-Jan-2012",
+    "Open": 4904.5,
+    "High": 4975.55,
+    "Low": 4904,
+    "Close": 4967.3,
+    "Shares Traded": 223004183,
+    "Turnover (Rs. Cr)": 7170.72
+  },
+  {
+    "Date": "18-Jan-2012",
+    "Open": 4977.75,
+    "High": 4980.65,
+    "Low": 4931.05,
+    "Close": 4955.8,
+    "Shares Traded": 211198796,
+    "Turnover (Rs. Cr)": 7424.79
+  },
+  {
+    "Date": "19-Jan-2012",
+    "Open": 4995,
+    "High": 5023.8,
+    "Low": 4991.4,
+    "Close": 5018.4,
+    "Shares Traded": 203487608,
+    "Turnover (Rs. Cr)": 6634.33
+  },
+  {
+    "Date": "20-Jan-2012",
+    "Open": 5044.85,
+    "High": 5064.15,
+    "Low": 5004.3,
+    "Close": 5048.6,
+    "Shares Traded": 221048007,
+    "Turnover (Rs. Cr)": 8120.35
+  },
+  {
+    "Date": "23-Jan-2012",
+    "Open": 5025.35,
+    "High": 5059.55,
+    "Low": 5021.35,
+    "Close": 5046.25,
+    "Shares Traded": 158177571,
+    "Turnover (Rs. Cr)": 5934.04
+  },
+  {
+    "Date": "24-Jan-2012",
+    "Open": 5064.8,
+    "High": 5141.05,
+    "Low": 5049.8,
+    "Close": 5127.35,
+    "Shares Traded": 202006565,
+    "Turnover (Rs. Cr)": 8172.43
+  },
+  {
+    "Date": "25-Jan-2012",
+    "Open": 5151.5,
+    "High": 5174.15,
+    "Low": 5130.25,
+    "Close": 5158.3,
+    "Shares Traded": 219175709,
+    "Turnover (Rs. Cr)": 8156.04
+  },
+  {
+    "Date": "27-Jan-2012",
+    "Open": 5216.75,
+    "High": 5217,
+    "Low": 5162.4,
+    "Close": 5204.7,
+    "Shares Traded": 215923377,
+    "Turnover (Rs. Cr)": 7881.15
+  },
+  {
+    "Date": "30-Jan-2012",
+    "Open": 5163.55,
+    "High": 5166.15,
+    "Low": 5076.7,
+    "Close": 5087.3,
+    "Shares Traded": 181141437,
+    "Turnover (Rs. Cr)": 6181.32
+  },
+  {
+    "Date": "31-Jan-2012",
+    "Open": 5125.25,
+    "High": 5215.4,
+    "Low": 5120.15,
+    "Close": 5199.25,
+    "Shares Traded": 215770719,
+    "Turnover (Rs. Cr)": 8075.54
+  },
+  {
+    "Date": "01-Feb-2012",
+    "Open": 5198.15,
+    "High": 5244.6,
+    "Low": 5159,
+    "Close": 5235.7,
+    "Shares Traded": 234899358,
+    "Turnover (Rs. Cr)": 8066.68
+  },
+  {
+    "Date": "02-Feb-2012",
+    "Open": 5272.1,
+    "High": 5289.95,
+    "Low": 5225.75,
+    "Close": 5269.9,
+    "Shares Traded": 337960651,
+    "Turnover (Rs. Cr)": 11126.39
+  },
+  {
+    "Date": "03-Feb-2012",
+    "Open": 5276.1,
+    "High": 5334.85,
+    "Low": 5255.55,
+    "Close": 5325.85,
+    "Shares Traded": 217358188,
+    "Turnover (Rs. Cr)": 7573.02
+  },
+  {
+    "Date": "06-Feb-2012",
+    "Open": 5379.45,
+    "High": 5390.05,
+    "Low": 5327.25,
+    "Close": 5361.65,
+    "Shares Traded": 215080487,
+    "Turnover (Rs. Cr)": 7703.06
+  },
+  {
+    "Date": "07-Feb-2012",
+    "Open": 5412.95,
+    "High": 5413.35,
+    "Low": 5322.95,
+    "Close": 5335.15,
+    "Shares Traded": 181194561,
+    "Turnover (Rs. Cr)": 6797.14
+  },
+  {
+    "Date": "08-Feb-2012",
+    "Open": 5343.8,
+    "High": 5396.9,
+    "Low": 5325.2,
+    "Close": 5368.15,
+    "Shares Traded": 236135416,
+    "Turnover (Rs. Cr)": 9359.98
+  },
+  {
+    "Date": "09-Feb-2012",
+    "Open": 5343.05,
+    "High": 5423.4,
+    "Low": 5338.9,
+    "Close": 5412.35,
+    "Shares Traded": 255306965,
+    "Turnover (Rs. Cr)": 8143.96
+  },
+  {
+    "Date": "10-Feb-2012",
+    "Open": 5399.8,
+    "High": 5427.75,
+    "Low": 5341.05,
+    "Close": 5381.6,
+    "Shares Traded": 225352093,
+    "Turnover (Rs. Cr)": 7396.34
+  },
+  {
+    "Date": "13-Feb-2012",
+    "Open": 5382.1,
+    "High": 5421.05,
+    "Low": 5351.4,
+    "Close": 5390.2,
+    "Shares Traded": 181561910,
+    "Turnover (Rs. Cr)": 6738
+  },
+  {
+    "Date": "14-Feb-2012",
+    "Open": 5380.8,
+    "High": 5428.05,
+    "Low": 5377.95,
+    "Close": 5416.05,
+    "Shares Traded": 201409996,
+    "Turnover (Rs. Cr)": 6693.43
+  },
+  {
+    "Date": "15-Feb-2012",
+    "Open": 5460.6,
+    "High": 5542.1,
+    "Low": 5460.6,
+    "Close": 5531.95,
+    "Shares Traded": 314366096,
+    "Turnover (Rs. Cr)": 9958.28
+  },
+  {
+    "Date": "16-Feb-2012",
+    "Open": 5513.75,
+    "High": 5531.4,
+    "Low": 5483.75,
+    "Close": 5521.95,
+    "Shares Traded": 270060477,
+    "Turnover (Rs. Cr)": 9053.45
+  },
+  {
+    "Date": "17-Feb-2012",
+    "Open": 5574.2,
+    "High": 5606.7,
+    "Low": 5545.2,
+    "Close": 5564.3,
+    "Shares Traded": 329307516,
+    "Turnover (Rs. Cr)": 11512.01
+  },
+  {
+    "Date": "21-Feb-2012",
+    "Open": 5561.9,
+    "High": 5621.5,
+    "Low": 5561.75,
+    "Close": 5607.15,
+    "Shares Traded": 231132126,
+    "Turnover (Rs. Cr)": 8169.38
+  },
+  {
+    "Date": "22-Feb-2012",
+    "Open": 5609.75,
+    "High": 5629.95,
+    "Low": 5491.35,
+    "Close": 5505.35,
+    "Shares Traded": 263013427,
+    "Turnover (Rs. Cr)": 9694.44
+  },
+  {
+    "Date": "23-Feb-2012",
+    "Open": 5490.05,
+    "High": 5537.4,
+    "Low": 5460.8,
+    "Close": 5483.3,
+    "Shares Traded": 307246519,
+    "Turnover (Rs. Cr)": 9987.65
+  },
+  {
+    "Date": "24-Feb-2012",
+    "Open": 5479.15,
+    "High": 5521.4,
+    "Low": 5405.9,
+    "Close": 5429.3,
+    "Shares Traded": 364660634,
+    "Turnover (Rs. Cr)": 17356.76
+  },
+  {
+    "Date": "27-Feb-2012",
+    "Open": 5448.1,
+    "High": 5449.8,
+    "Low": 5268.15,
+    "Close": 5281.2,
+    "Shares Traded": 235318961,
+    "Turnover (Rs. Cr)": 7706.81
+  },
+  {
+    "Date": "28-Feb-2012",
+    "Open": 5310.5,
+    "High": 5391.1,
+    "Low": 5306.45,
+    "Close": 5375.5,
+    "Shares Traded": 208133889,
+    "Turnover (Rs. Cr)": 7815.9
+  },
+  {
+    "Date": "29-Feb-2012",
+    "Open": 5424.95,
+    "High": 5458.8,
+    "Low": 5352.25,
+    "Close": 5385.2,
+    "Shares Traded": 226022232,
+    "Turnover (Rs. Cr)": 8454.41
+  },
+  {
+    "Date": "01-Mar-2012",
+    "Open": 5366,
+    "High": 5372.45,
+    "Low": 5297.5,
+    "Close": 5339.75,
+    "Shares Traded": 196867905,
+    "Turnover (Rs. Cr)": 6847.63
+  },
+  {
+    "Date": "02-Mar-2012",
+    "Open": 5369.45,
+    "High": 5392.55,
+    "Low": 5315.05,
+    "Close": 5359.35,
+    "Shares Traded": 185021526,
+    "Turnover (Rs. Cr)": 6768.52
+  },
+  {
+    "Date": "03-Mar-2012",
+    "Open": 5360.05,
+    "High": 5369.6,
+    "Low": 5353.4,
+    "Close": 5359.4,
+    "Shares Traded": 16770991,
+    "Turnover (Rs. Cr)": 429.35
+  },
+  {
+    "Date": "05-Mar-2012",
+    "Open": 5342.55,
+    "High": 5344.5,
+    "Low": 5265.7,
+    "Close": 5280.35,
+    "Shares Traded": 196421155,
+    "Turnover (Rs. Cr)": 6036.63
+  },
+  {
+    "Date": "06-Mar-2012",
+    "Open": 5266,
+    "High": 5382.05,
+    "Low": 5206.4,
+    "Close": 5222.4,
+    "Shares Traded": 290396014,
+    "Turnover (Rs. Cr)": 9319.01
+  },
+  {
+    "Date": "07-Mar-2012",
+    "Open": 5207.05,
+    "High": 5243.85,
+    "Low": 5171.45,
+    "Close": 5220.45,
+    "Shares Traded": 230726017,
+    "Turnover (Rs. Cr)": 7173.14
+  },
+  {
+    "Date": "09-Mar-2012",
+    "Open": 5294.1,
+    "High": 5342.3,
+    "Low": 5291.6,
+    "Close": 5333.55,
+    "Shares Traded": 203005845,
+    "Turnover (Rs. Cr)": 7080.66
+  },
+  {
+    "Date": "12-Mar-2012",
+    "Open": 5420.1,
+    "High": 5421.9,
+    "Low": 5327.3,
+    "Close": 5359.55,
+    "Shares Traded": 176668237,
+    "Turnover (Rs. Cr)": 6484.38
+  },
+  {
+    "Date": "13-Mar-2012",
+    "Open": 5391.05,
+    "High": 5438.65,
+    "Low": 5390.8,
+    "Close": 5429.5,
+    "Shares Traded": 179965296,
+    "Turnover (Rs. Cr)": 5907.14
+  },
+  {
+    "Date": "14-Mar-2012",
+    "Open": 5490.55,
+    "High": 5499.4,
+    "Low": 5437.8,
+    "Close": 5463.9,
+    "Shares Traded": 181714070,
+    "Turnover (Rs. Cr)": 7345.67
+  },
+  {
+    "Date": "15-Mar-2012",
+    "Open": 5462.5,
+    "High": 5462.5,
+    "Low": 5362.3,
+    "Close": 5380.5,
+    "Shares Traded": 160257651,
+    "Turnover (Rs. Cr)": 5961.15
+  },
+  {
+    "Date": "16-Mar-2012",
+    "Open": 5380.35,
+    "High": 5445.65,
+    "Low": 5305,
+    "Close": 5317.9,
+    "Shares Traded": 267521147,
+    "Turnover (Rs. Cr)": 9432.07
+  },
+  {
+    "Date": "19-Mar-2012",
+    "Open": 5337.35,
+    "High": 5340.7,
+    "Low": 5238.55,
+    "Close": 5257.05,
+    "Shares Traded": 179877454,
+    "Turnover (Rs. Cr)": 6275.89
+  },
+  {
+    "Date": "20-Mar-2012",
+    "Open": 5257.15,
+    "High": 5297.35,
+    "Low": 5233.25,
+    "Close": 5274.85,
+    "Shares Traded": 181345285,
+    "Turnover (Rs. Cr)": 6158
+  },
+  {
+    "Date": "21-Mar-2012",
+    "Open": 5267.2,
+    "High": 5372.35,
+    "Low": 5256,
+    "Close": 5364.95,
+    "Shares Traded": 199787985,
+    "Turnover (Rs. Cr)": 6807.02
+  },
+  {
+    "Date": "22-Mar-2012",
+    "Open": 5361.1,
+    "High": 5385.95,
+    "Low": 5205.65,
+    "Close": 5228.45,
+    "Shares Traded": 205581062,
+    "Turnover (Rs. Cr)": 7359.89
+  },
+  {
+    "Date": "23-Mar-2012",
+    "Open": 5255.65,
+    "High": 5312,
+    "Low": 5220,
+    "Close": 5278.2,
+    "Shares Traded": 172738574,
+    "Turnover (Rs. Cr)": 6371.46
+  },
+  {
+    "Date": "26-Mar-2012",
+    "Open": 5274.35,
+    "High": 5274.95,
+    "Low": 5174.9,
+    "Close": 5184.25,
+    "Shares Traded": 169785835,
+    "Turnover (Rs. Cr)": 5582.28
+  },
+  {
+    "Date": "27-Mar-2012",
+    "Open": 5242.95,
+    "High": 5277.95,
+    "Low": 5184.65,
+    "Close": 5243.15,
+    "Shares Traded": 208775421,
+    "Turnover (Rs. Cr)": 7445.92
+  },
+  {
+    "Date": "28-Mar-2012",
+    "Open": 5231.7,
+    "High": 5236.55,
+    "Low": 5169.6,
+    "Close": 5194.75,
+    "Shares Traded": 145803597,
+    "Turnover (Rs. Cr)": 5411.63
+  },
+  {
+    "Date": "29-Mar-2012",
+    "Open": 5145.95,
+    "High": 5194.3,
+    "Low": 5135.95,
+    "Close": 5178.85,
+    "Shares Traded": 242557889,
+    "Turnover (Rs. Cr)": 8632.05
+  },
+  {
+    "Date": "30-Mar-2012",
+    "Open": 5206.6,
+    "High": 5307.1,
+    "Low": 5203.65,
+    "Close": 5295.55,
+    "Shares Traded": 164790056,
+    "Turnover (Rs. Cr)": 6082.93
+  },
+  {
+    "Date": "02-Apr-2012",
+    "Open": 5296.35,
+    "High": 5331.55,
+    "Low": 5278.8,
+    "Close": 5317.9,
+    "Shares Traded": 134538287,
+    "Turnover (Rs. Cr)": 4583.68
+  },
+  {
+    "Date": "03-Apr-2012",
+    "Open": 5353.2,
+    "High": 5378.75,
+    "Low": 5344.45,
+    "Close": 5358.5,
+    "Shares Traded": 152496489,
+    "Turnover (Rs. Cr)": 5256.86
+  },
+  {
+    "Date": "04-Apr-2012",
+    "Open": 5328.65,
+    "High": 5338.4,
+    "Low": 5305.3,
+    "Close": 5322.9,
+    "Shares Traded": 122106162,
+    "Turnover (Rs. Cr)": 4084.37
+  },
+  {
+    "Date": "09-Apr-2012",
+    "Open": 5282.5,
+    "High": 5287.9,
+    "Low": 5228,
+    "Close": 5234.4,
+    "Shares Traded": 111914936,
+    "Turnover (Rs. Cr)": 3680.04
+  },
+  {
+    "Date": "10-Apr-2012",
+    "Open": 5254.1,
+    "High": 5255.8,
+    "Low": 5211.85,
+    "Close": 5243.6,
+    "Shares Traded": 156106794,
+    "Turnover (Rs. Cr)": 4886.48
+  },
+  {
+    "Date": "11-Apr-2012",
+    "Open": 5209.45,
+    "High": 5263.65,
+    "Low": 5190.8,
+    "Close": 5226.85,
+    "Shares Traded": 167013527,
+    "Turnover (Rs. Cr)": 5585.7
+  },
+  {
+    "Date": "12-Apr-2012",
+    "Open": 5246.75,
+    "High": 5290.6,
+    "Low": 5246.75,
+    "Close": 5276.85,
+    "Shares Traded": 152684788,
+    "Turnover (Rs. Cr)": 5457.29
+  },
+  {
+    "Date": "13-Apr-2012",
+    "Open": 5255.7,
+    "High": 5306.75,
+    "Low": 5185.4,
+    "Close": 5207.45,
+    "Shares Traded": 164225858,
+    "Turnover (Rs. Cr)": 7989.27
+  },
+  {
+    "Date": "16-Apr-2012",
+    "Open": 5190.6,
+    "High": 5233.5,
+    "Low": 5183.5,
+    "Close": 5226.2,
+    "Shares Traded": 119730347,
+    "Turnover (Rs. Cr)": 5165.7
+  },
+  {
+    "Date": "17-Apr-2012",
+    "Open": 5266.6,
+    "High": 5298.2,
+    "Low": 5208.35,
+    "Close": 5289.7,
+    "Shares Traded": 178895417,
+    "Turnover (Rs. Cr)": 7416.66
+  },
+  {
+    "Date": "18-Apr-2012",
+    "Open": 5320.7,
+    "High": 5342,
+    "Low": 5293.45,
+    "Close": 5300,
+    "Shares Traded": 152743439,
+    "Turnover (Rs. Cr)": 5665.77
+  },
+  {
+    "Date": "19-Apr-2012",
+    "Open": 5320.6,
+    "High": 5342.45,
+    "Low": 5291.3,
+    "Close": 5332.4,
+    "Shares Traded": 133549895,
+    "Turnover (Rs. Cr)": 5313.33
+  },
+  {
+    "Date": "20-Apr-2012",
+    "Open": 5313.95,
+    "High": 5336.15,
+    "Low": 5245.45,
+    "Close": 5290.85,
+    "Shares Traded": 135252751,
+    "Turnover (Rs. Cr)": 5086.54
+  },
+  {
+    "Date": "23-Apr-2012",
+    "Open": 5277.4,
+    "High": 5310.55,
+    "Low": 5187.15,
+    "Close": 5200.6,
+    "Shares Traded": 138042341,
+    "Turnover (Rs. Cr)": 5065.27
+  },
+  {
+    "Date": "24-Apr-2012",
+    "Open": 5215.9,
+    "High": 5232.35,
+    "Low": 5180.35,
+    "Close": 5222.65,
+    "Shares Traded": 155674654,
+    "Turnover (Rs. Cr)": 7362.66
+  },
+  {
+    "Date": "25-Apr-2012",
+    "Open": 5222.2,
+    "High": 5236.1,
+    "Low": 5160.65,
+    "Close": 5202,
+    "Shares Traded": 142910739,
+    "Turnover (Rs. Cr)": 5968.34
+  },
+  {
+    "Date": "26-Apr-2012",
+    "Open": 5214.75,
+    "High": 5215.6,
+    "Low": 5179.05,
+    "Close": 5189,
+    "Shares Traded": 185899437,
+    "Turnover (Rs. Cr)": 6408.49
+  },
+  {
+    "Date": "27-Apr-2012",
+    "Open": 5189,
+    "High": 5223.05,
+    "Low": 5154.3,
+    "Close": 5190.6,
+    "Shares Traded": 128759445,
+    "Turnover (Rs. Cr)": 5734.59
+  },
+  {
+    "Date": "28-Apr-2012",
+    "Open": 5209.6,
+    "High": 5216.4,
+    "Low": 5196.35,
+    "Close": 5209,
+    "Shares Traded": 6555703,
+    "Turnover (Rs. Cr)": 297.89
+  },
+  {
+    "Date": "30-Apr-2012",
+    "Open": 5201.45,
+    "High": 5262.15,
+    "Low": 5201.45,
+    "Close": 5248.15,
+    "Shares Traded": 108138550,
+    "Turnover (Rs. Cr)": 4610.4
+  },
+  {
+    "Date": "02-May-2012",
+    "Open": 5254.3,
+    "High": 5279.6,
+    "Low": 5226.45,
+    "Close": 5239.15,
+    "Shares Traded": 119333288,
+    "Turnover (Rs. Cr)": 4815.08
+  },
+  {
+    "Date": "03-May-2012",
+    "Open": 5211.2,
+    "High": 5217.3,
+    "Low": 5180.65,
+    "Close": 5188.4,
+    "Shares Traded": 118573998,
+    "Turnover (Rs. Cr)": 5488.9
+  },
+  {
+    "Date": "04-May-2012",
+    "Open": 5166.65,
+    "High": 5177.2,
+    "Low": 5070.6,
+    "Close": 5086.85,
+    "Shares Traded": 153304687,
+    "Turnover (Rs. Cr)": 6507.5
+  },
+  {
+    "Date": "07-May-2012",
+    "Open": 5017.8,
+    "High": 5124.75,
+    "Low": 4988,
+    "Close": 5114.15,
+    "Shares Traded": 168271798,
+    "Turnover (Rs. Cr)": 6787.08
+  },
+  {
+    "Date": "08-May-2012",
+    "Open": 5114.7,
+    "High": 5119.95,
+    "Low": 4983.6,
+    "Close": 4999.95,
+    "Shares Traded": 164262546,
+    "Turnover (Rs. Cr)": 6233.26
+  },
+  {
+    "Date": "09-May-2012",
+    "Open": 4967.9,
+    "High": 5016.25,
+    "Low": 4956.45,
+    "Close": 4974.8,
+    "Shares Traded": 180441209,
+    "Turnover (Rs. Cr)": 6558.78
+  },
+  {
+    "Date": "10-May-2012",
+    "Open": 4984.15,
+    "High": 5039.3,
+    "Low": 4950.3,
+    "Close": 4965.7,
+    "Shares Traded": 141031231,
+    "Turnover (Rs. Cr)": 5430.14
+  },
+  {
+    "Date": "11-May-2012",
+    "Open": 4938.85,
+    "High": 4976.25,
+    "Low": 4906.15,
+    "Close": 4928.9,
+    "Shares Traded": 138526070,
+    "Turnover (Rs. Cr)": 5061.57
+  },
+  {
+    "Date": "14-May-2012",
+    "Open": 4934.35,
+    "High": 4957.2,
+    "Low": 4874.5,
+    "Close": 4907.8,
+    "Shares Traded": 126951751,
+    "Turnover (Rs. Cr)": 5291.93
+  },
+  {
+    "Date": "15-May-2012",
+    "Open": 4869.85,
+    "High": 4955.2,
+    "Low": 4868.55,
+    "Close": 4942.8,
+    "Shares Traded": 142119571,
+    "Turnover (Rs. Cr)": 5491.24
+  },
+  {
+    "Date": "16-May-2012",
+    "Open": 4875.3,
+    "High": 4882.25,
+    "Low": 4837.05,
+    "Close": 4858.25,
+    "Shares Traded": 165048505,
+    "Turnover (Rs. Cr)": 6316.66
+  },
+  {
+    "Date": "17-May-2012",
+    "Open": 4878.6,
+    "High": 4922.25,
+    "Low": 4850.2,
+    "Close": 4870.2,
+    "Shares Traded": 155654031,
+    "Turnover (Rs. Cr)": 5745.51
+  },
+  {
+    "Date": "18-May-2012",
+    "Open": 4796.4,
+    "High": 4908.5,
+    "Low": 4788.95,
+    "Close": 4891.45,
+    "Shares Traded": 154508649,
+    "Turnover (Rs. Cr)": 6447.08
+  },
+  {
+    "Date": "21-May-2012",
+    "Open": 4888.5,
+    "High": 4937.5,
+    "Low": 4888.5,
+    "Close": 4906.05,
+    "Shares Traded": 116506971,
+    "Turnover (Rs. Cr)": 4527.67
+  },
+  {
+    "Date": "22-May-2012",
+    "Open": 4954.7,
+    "High": 4956.35,
+    "Low": 4849.9,
+    "Close": 4860.5,
+    "Shares Traded": 130808278,
+    "Turnover (Rs. Cr)": 5074.37
+  },
+  {
+    "Date": "23-May-2012",
+    "Open": 4843,
+    "High": 4853.75,
+    "Low": 4803.95,
+    "Close": 4835.65,
+    "Shares Traded": 136108067,
+    "Turnover (Rs. Cr)": 4854.15
+  },
+  {
+    "Date": "24-May-2012",
+    "Open": 4863.4,
+    "High": 4931.9,
+    "Low": 4830.15,
+    "Close": 4921.4,
+    "Shares Traded": 140474832,
+    "Turnover (Rs. Cr)": 5012.08
+  },
+  {
+    "Date": "25-May-2012",
+    "Open": 4905.95,
+    "High": 4935.8,
+    "Low": 4889.35,
+    "Close": 4920.4,
+    "Shares Traded": 118191157,
+    "Turnover (Rs. Cr)": 4398.09
+  },
+  {
+    "Date": "28-May-2012",
+    "Open": 4931.7,
+    "High": 4994.95,
+    "Low": 4931.3,
+    "Close": 4985.65,
+    "Shares Traded": 97260991,
+    "Turnover (Rs. Cr)": 3983.53
+  },
+  {
+    "Date": "29-May-2012",
+    "Open": 5005.35,
+    "High": 5020.15,
+    "Low": 4982.15,
+    "Close": 4990.1,
+    "Shares Traded": 124219839,
+    "Turnover (Rs. Cr)": 4923.56
+  },
+  {
+    "Date": "30-May-2012",
+    "Open": 4964.25,
+    "High": 4982.25,
+    "Low": 4944.9,
+    "Close": 4950.75,
+    "Shares Traded": 146005250,
+    "Turnover (Rs. Cr)": 5374.65
+  },
+  {
+    "Date": "31-May-2012",
+    "Open": 4896.1,
+    "High": 4949.25,
+    "Low": 4883.55,
+    "Close": 4924.25,
+    "Shares Traded": 296911390,
+    "Turnover (Rs. Cr)": 10662.01
+  },
+  {
+    "Date": "01-Jun-2012",
+    "Open": 4910.85,
+    "High": 4925,
+    "Low": 4831.75,
+    "Close": 4841.6,
+    "Shares Traded": 138767416,
+    "Turnover (Rs. Cr)": 4989.22
+  },
+  {
+    "Date": "04-Jun-2012",
+    "Open": 4797.3,
+    "High": 4858.3,
+    "Low": 4770.35,
+    "Close": 4848.15,
+    "Shares Traded": 152339865,
+    "Turnover (Rs. Cr)": 5143.54
+  },
+  {
+    "Date": "05-Jun-2012",
+    "Open": 4869.45,
+    "High": 4898.95,
+    "Low": 4847.7,
+    "Close": 4863.3,
+    "Shares Traded": 141476962,
+    "Turnover (Rs. Cr)": 5016.41
+  },
+  {
+    "Date": "06-Jun-2012",
+    "Open": 4886.65,
+    "High": 5010.45,
+    "Low": 4886.15,
+    "Close": 4997.1,
+    "Shares Traded": 185340406,
+    "Turnover (Rs. Cr)": 7188.42
+  },
+  {
+    "Date": "07-Jun-2012",
+    "Open": 5035.35,
+    "High": 5059.65,
+    "Low": 5007.75,
+    "Close": 5049.65,
+    "Shares Traded": 150558164,
+    "Turnover (Rs. Cr)": 6077.37
+  },
+  {
+    "Date": "08-Jun-2012",
+    "Open": 5044.25,
+    "High": 5084.45,
+    "Low": 4994.8,
+    "Close": 5068.35,
+    "Shares Traded": 138389395,
+    "Turnover (Rs. Cr)": 5249.81
+  },
+  {
+    "Date": "11-Jun-2012",
+    "Open": 5096.7,
+    "High": 5124.45,
+    "Low": 5040.7,
+    "Close": 5054.1,
+    "Shares Traded": 125615102,
+    "Turnover (Rs. Cr)": 4813.82
+  },
+  {
+    "Date": "12-Jun-2012",
+    "Open": 5015.5,
+    "High": 5128.9,
+    "Low": 5015.15,
+    "Close": 5115.9,
+    "Shares Traded": 135478015,
+    "Turnover (Rs. Cr)": 5205.9
+  },
+  {
+    "Date": "13-Jun-2012",
+    "Open": 5117.55,
+    "High": 5144.9,
+    "Low": 5095.45,
+    "Close": 5121.45,
+    "Shares Traded": 125668126,
+    "Turnover (Rs. Cr)": 5287.08
+  },
+  {
+    "Date": "14-Jun-2012",
+    "Open": 5105.1,
+    "High": 5130,
+    "Low": 5047.6,
+    "Close": 5054.75,
+    "Shares Traded": 118353366,
+    "Turnover (Rs. Cr)": 4751.86
+  },
+  {
+    "Date": "15-Jun-2012",
+    "Open": 5069.55,
+    "High": 5146.2,
+    "Low": 5069.15,
+    "Close": 5139.05,
+    "Shares Traded": 155437144,
+    "Turnover (Rs. Cr)": 5944
+  },
+  {
+    "Date": "18-Jun-2012",
+    "Open": 5174,
+    "High": 5190.2,
+    "Low": 5041.7,
+    "Close": 5064.25,
+    "Shares Traded": 153461067,
+    "Turnover (Rs. Cr)": 6005.83
+  },
+  {
+    "Date": "19-Jun-2012",
+    "Open": 5050.8,
+    "High": 5113.6,
+    "Low": 5048.1,
+    "Close": 5103.85,
+    "Shares Traded": 149416155,
+    "Turnover (Rs. Cr)": 5336.22
+  },
+  {
+    "Date": "20-Jun-2012",
+    "Open": 5114.55,
+    "High": 5141.7,
+    "Low": 5100.7,
+    "Close": 5120.55,
+    "Shares Traded": 160505645,
+    "Turnover (Rs. Cr)": 5313.6
+  },
+  {
+    "Date": "21-Jun-2012",
+    "Open": 5097.35,
+    "High": 5170.4,
+    "Low": 5093.45,
+    "Close": 5165,
+    "Shares Traded": 142992948,
+    "Turnover (Rs. Cr)": 5558.56
+  },
+  {
+    "Date": "22-Jun-2012",
+    "Open": 5101.75,
+    "High": 5159.8,
+    "Low": 5094,
+    "Close": 5146.05,
+    "Shares Traded": 159747192,
+    "Turnover (Rs. Cr)": 5500.44
+  },
+  {
+    "Date": "25-Jun-2012",
+    "Open": 5158.5,
+    "High": 5194.6,
+    "Low": 5105.65,
+    "Close": 5114.65,
+    "Shares Traded": 123503010,
+    "Turnover (Rs. Cr)": 4894.04
+  },
+  {
+    "Date": "26-Jun-2012",
+    "Open": 5107.45,
+    "High": 5134.55,
+    "Low": 5095.5,
+    "Close": 5120.8,
+    "Shares Traded": 99404566,
+    "Turnover (Rs. Cr)": 4119.69
+  },
+  {
+    "Date": "27-Jun-2012",
+    "Open": 5149.45,
+    "High": 5160.1,
+    "Low": 5129.25,
+    "Close": 5141.9,
+    "Shares Traded": 112269218,
+    "Turnover (Rs. Cr)": 4238.62
+  },
+  {
+    "Date": "28-Jun-2012",
+    "Open": 5148.95,
+    "High": 5159.05,
+    "Low": 5125.3,
+    "Close": 5149.15,
+    "Shares Traded": 143073791,
+    "Turnover (Rs. Cr)": 5597.52
+  },
+  {
+    "Date": "29-Jun-2012",
+    "Open": 5191.25,
+    "High": 5286.25,
+    "Low": 5189,
+    "Close": 5278.9,
+    "Shares Traded": 226523598,
+    "Turnover (Rs. Cr)": 8461.24
+  },
+  {
+    "Date": "02-Jul-2012",
+    "Open": 5283.85,
+    "High": 5302.15,
+    "Low": 5263.35,
+    "Close": 5278.6,
+    "Shares Traded": 126161441,
+    "Turnover (Rs. Cr)": 4991.57
+  },
+  {
+    "Date": "03-Jul-2012",
+    "Open": 5298.85,
+    "High": 5317,
+    "Low": 5265.95,
+    "Close": 5287.95,
+    "Shares Traded": 133117055,
+    "Turnover (Rs. Cr)": 5161.82
+  },
+  {
+    "Date": "04-Jul-2012",
+    "Open": 5310.4,
+    "High": 5317.65,
+    "Low": 5273.3,
+    "Close": 5302.55,
+    "Shares Traded": 155995887,
+    "Turnover (Rs. Cr)": 5750.1
+  },
+  {
+    "Date": "05-Jul-2012",
+    "Open": 5297.05,
+    "High": 5333.65,
+    "Low": 5288.85,
+    "Close": 5327.3,
+    "Shares Traded": 118915392,
+    "Turnover (Rs. Cr)": 4709.79
+  },
+  {
+    "Date": "06-Jul-2012",
+    "Open": 5324.7,
+    "High": 5327.2,
+    "Low": 5287.75,
+    "Close": 5316.95,
+    "Shares Traded": 113300726,
+    "Turnover (Rs. Cr)": 4760.51
+  },
+  {
+    "Date": "09-Jul-2012",
+    "Open": 5283.7,
+    "High": 5300.6,
+    "Low": 5257.75,
+    "Close": 5275.15,
+    "Shares Traded": 101169926,
+    "Turnover (Rs. Cr)": 4189.25
+  },
+  {
+    "Date": "10-Jul-2012",
+    "Open": 5286.6,
+    "High": 5348.55,
+    "Low": 5284.55,
+    "Close": 5345.35,
+    "Shares Traded": 123947633,
+    "Turnover (Rs. Cr)": 5024.13
+  },
+  {
+    "Date": "11-Jul-2012",
+    "Open": 5315.25,
+    "High": 5336.45,
+    "Low": 5300.25,
+    "Close": 5306.3,
+    "Shares Traded": 113530679,
+    "Turnover (Rs. Cr)": 5086.98
+  },
+  {
+    "Date": "12-Jul-2012",
+    "Open": 5240,
+    "High": 5261.75,
+    "Low": 5217.7,
+    "Close": 5235.25,
+    "Shares Traded": 131190833,
+    "Turnover (Rs. Cr)": 6193.59
+  },
+  {
+    "Date": "13-Jul-2012",
+    "Open": 5242.75,
+    "High": 5267.15,
+    "Low": 5216.85,
+    "Close": 5227.25,
+    "Shares Traded": 99045088,
+    "Turnover (Rs. Cr)": 4451.9
+  },
+  {
+    "Date": "16-Jul-2012",
+    "Open": 5232.35,
+    "High": 5246.85,
+    "Low": 5190.45,
+    "Close": 5197.25,
+    "Shares Traded": 106313144,
+    "Turnover (Rs. Cr)": 4283.22
+  },
+  {
+    "Date": "17-Jul-2012",
+    "Open": 5228.05,
+    "High": 5236.7,
+    "Low": 5181.7,
+    "Close": 5192.85,
+    "Shares Traded": 111768115,
+    "Turnover (Rs. Cr)": 4719.2
+  },
+  {
+    "Date": "18-Jul-2012",
+    "Open": 5199.1,
+    "High": 5222.85,
+    "Low": 5169.05,
+    "Close": 5216.3,
+    "Shares Traded": 109647297,
+    "Turnover (Rs. Cr)": 4759.52
+  },
+  {
+    "Date": "19-Jul-2012",
+    "Open": 5249.85,
+    "High": 5257.75,
+    "Low": 5233.15,
+    "Close": 5242.7,
+    "Shares Traded": 109769282,
+    "Turnover (Rs. Cr)": 5494.99
+  },
+  {
+    "Date": "20-Jul-2012",
+    "Open": 5233.55,
+    "High": 5238.7,
+    "Low": 5197.5,
+    "Close": 5205.1,
+    "Shares Traded": 89729408,
+    "Turnover (Rs. Cr)": 4527.89
+  },
+  {
+    "Date": "23-Jul-2012",
+    "Open": 5163.25,
+    "High": 5164.2,
+    "Low": 5108.1,
+    "Close": 5117.95,
+    "Shares Traded": 104770324,
+    "Turnover (Rs. Cr)": 4394.24
+  },
+  {
+    "Date": "24-Jul-2012",
+    "Open": 5128.8,
+    "High": 5144,
+    "Low": 5103.25,
+    "Close": 5128.2,
+    "Shares Traded": 116516931,
+    "Turnover (Rs. Cr)": 4567.2
+  },
+  {
+    "Date": "25-Jul-2012",
+    "Open": 5118.4,
+    "High": 5121.6,
+    "Low": 5076.6,
+    "Close": 5109.6,
+    "Shares Traded": 130965621,
+    "Turnover (Rs. Cr)": 4654.17
+  },
+  {
+    "Date": "26-Jul-2012",
+    "Open": 5126.3,
+    "High": 5126.3,
+    "Low": 5032.4,
+    "Close": 5043,
+    "Shares Traded": 180131639,
+    "Turnover (Rs. Cr)": 6920.23
+  },
+  {
+    "Date": "27-Jul-2012",
+    "Open": 5124.3,
+    "High": 5149.95,
+    "Low": 5077.5,
+    "Close": 5099.85,
+    "Shares Traded": 131948378,
+    "Turnover (Rs. Cr)": 5828.12
+  },
+  {
+    "Date": "30-Jul-2012",
+    "Open": 5129.75,
+    "High": 5206.6,
+    "Low": 5129.75,
+    "Close": 5199.8,
+    "Shares Traded": 117523733,
+    "Turnover (Rs. Cr)": 5278.7
+  },
+  {
+    "Date": "31-Jul-2012",
+    "Open": 5214.85,
+    "High": 5234.55,
+    "Low": 5154.05,
+    "Close": 5229,
+    "Shares Traded": 147059808,
+    "Turnover (Rs. Cr)": 6254.67
+  },
+  {
+    "Date": "01-Aug-2012",
+    "Open": 5220.7,
+    "High": 5246.35,
+    "Low": 5212.65,
+    "Close": 5240.5,
+    "Shares Traded": 113815730,
+    "Turnover (Rs. Cr)": 4408.19
+  },
+  {
+    "Date": "02-Aug-2012",
+    "Open": 5233.1,
+    "High": 5236.9,
+    "Low": 5209.95,
+    "Close": 5227.75,
+    "Shares Traded": 92972386,
+    "Turnover (Rs. Cr)": 3699.59
+  },
+  {
+    "Date": "03-Aug-2012",
+    "Open": 5195.6,
+    "High": 5220.2,
+    "Low": 5164.65,
+    "Close": 5215.7,
+    "Shares Traded": 112918653,
+    "Turnover (Rs. Cr)": 4213.76
+  },
+  {
+    "Date": "06-Aug-2012",
+    "Open": 5260.85,
+    "High": 5293.2,
+    "Low": 5260.85,
+    "Close": 5282.55,
+    "Shares Traded": 103148076,
+    "Turnover (Rs. Cr)": 4271.5
+  },
+  {
+    "Date": "07-Aug-2012",
+    "Open": 5295.4,
+    "High": 5350.1,
+    "Low": 5281.65,
+    "Close": 5336.7,
+    "Shares Traded": 130431591,
+    "Turnover (Rs. Cr)": 5226.33
+  },
+  {
+    "Date": "08-Aug-2012",
+    "Open": 5345.25,
+    "High": 5377.6,
+    "Low": 5331.05,
+    "Close": 5338,
+    "Shares Traded": 165954895,
+    "Turnover (Rs. Cr)": 6069.12
+  },
+  {
+    "Date": "09-Aug-2012",
+    "Open": 5348.3,
+    "High": 5368.2,
+    "Low": 5312.1,
+    "Close": 5322.95,
+    "Shares Traded": 181419777,
+    "Turnover (Rs. Cr)": 6763.23
+  },
+  {
+    "Date": "10-Aug-2012",
+    "Open": 5308.2,
+    "High": 5330.1,
+    "Low": 5294.1,
+    "Close": 5320.4,
+    "Shares Traded": 130090985,
+    "Turnover (Rs. Cr)": 6540.77
+  },
+  {
+    "Date": "13-Aug-2012",
+    "Open": 5316.35,
+    "High": 5352.45,
+    "Low": 5309.05,
+    "Close": 5347.9,
+    "Shares Traded": 107578773,
+    "Turnover (Rs. Cr)": 4678.33
+  },
+  {
+    "Date": "14-Aug-2012",
+    "Open": 5343.25,
+    "High": 5387.05,
+    "Low": 5328.8,
+    "Close": 5380.35,
+    "Shares Traded": 109794400,
+    "Turnover (Rs. Cr)": 4742.47
+  },
+  {
+    "Date": "16-Aug-2012",
+    "Open": 5385.95,
+    "High": 5390.65,
+    "Low": 5356.65,
+    "Close": 5362.95,
+    "Shares Traded": 133996943,
+    "Turnover (Rs. Cr)": 5285.5
+  },
+  {
+    "Date": "17-Aug-2012",
+    "Open": 5368.6,
+    "High": 5399.95,
+    "Low": 5341.7,
+    "Close": 5366.3,
+    "Shares Traded": 134985473,
+    "Turnover (Rs. Cr)": 5262.34
+  },
+  {
+    "Date": "21-Aug-2012",
+    "Open": 5368.7,
+    "High": 5425.15,
+    "Low": 5368.7,
+    "Close": 5421,
+    "Shares Traded": 124343357,
+    "Turnover (Rs. Cr)": 4986.5
+  },
+  {
+    "Date": "22-Aug-2012",
+    "Open": 5395.75,
+    "High": 5433.35,
+    "Low": 5394.8,
+    "Close": 5412.85,
+    "Shares Traded": 103103501,
+    "Turnover (Rs. Cr)": 4156.18
+  },
+  {
+    "Date": "23-Aug-2012",
+    "Open": 5426.15,
+    "High": 5448.6,
+    "Low": 5393.85,
+    "Close": 5415.35,
+    "Shares Traded": 127995889,
+    "Turnover (Rs. Cr)": 5462.34
+  },
+  {
+    "Date": "24-Aug-2012",
+    "Open": 5392.6,
+    "High": 5399.65,
+    "Low": 5371,
+    "Close": 5386.7,
+    "Shares Traded": 114346965,
+    "Turnover (Rs. Cr)": 4520.37
+  },
+  {
+    "Date": "27-Aug-2012",
+    "Open": 5387.85,
+    "High": 5399.15,
+    "Low": 5346.65,
+    "Close": 5350.25,
+    "Shares Traded": 89987572,
+    "Turnover (Rs. Cr)": 3882.41
+  },
+  {
+    "Date": "28-Aug-2012",
+    "Open": 5348.05,
+    "High": 5359.25,
+    "Low": 5312.6,
+    "Close": 5334.6,
+    "Shares Traded": 123683723,
+    "Turnover (Rs. Cr)": 4771
+  },
+  {
+    "Date": "29-Aug-2012",
+    "Open": 5343.85,
+    "High": 5345.5,
+    "Low": 5282.7,
+    "Close": 5287.8,
+    "Shares Traded": 157470632,
+    "Turnover (Rs. Cr)": 4581.21
+  },
+  {
+    "Date": "30-Aug-2012",
+    "Open": 5268.6,
+    "High": 5342.8,
+    "Low": 5255.05,
+    "Close": 5315.05,
+    "Shares Traded": 226494000,
+    "Turnover (Rs. Cr)": 8374.69
+  },
+  {
+    "Date": "31-Aug-2012",
+    "Open": 5298.2,
+    "High": 5303.25,
+    "Low": 5238.9,
+    "Close": 5258.5,
+    "Shares Traded": 167393902,
+    "Turnover (Rs. Cr)": 6600.58
+  },
+  {
+    "Date": "03-Sep-2012",
+    "Open": 5276.5,
+    "High": 5295.8,
+    "Low": 5243.15,
+    "Close": 5253.75,
+    "Shares Traded": 110380869,
+    "Turnover (Rs. Cr)": 4015.55
+  },
+  {
+    "Date": "04-Sep-2012",
+    "Open": 5249.15,
+    "High": 5278.35,
+    "Low": 5233.2,
+    "Close": 5274,
+    "Shares Traded": 106316880,
+    "Turnover (Rs. Cr)": 3726.52
+  },
+  {
+    "Date": "05-Sep-2012",
+    "Open": 5243.9,
+    "High": 5259.5,
+    "Low": 5215.7,
+    "Close": 5225.7,
+    "Shares Traded": 126162071,
+    "Turnover (Rs. Cr)": 4904.68
+  },
+  {
+    "Date": "06-Sep-2012",
+    "Open": 5217.65,
+    "High": 5260.6,
+    "Low": 5217.65,
+    "Close": 5238.4,
+    "Shares Traded": 134008569,
+    "Turnover (Rs. Cr)": 4622.16
+  },
+  {
+    "Date": "07-Sep-2012",
+    "Open": 5309.45,
+    "High": 5347.15,
+    "Low": 5309.2,
+    "Close": 5342.1,
+    "Shares Traded": 149584722,
+    "Turnover (Rs. Cr)": 5590.04
+  },
+  {
+    "Date": "08-Sep-2012",
+    "Open": 5343.65,
+    "High": 5366.3,
+    "Low": 5343.45,
+    "Close": 5358.7,
+    "Shares Traded": 11221064,
+    "Turnover (Rs. Cr)": 376.34
+  },
+  {
+    "Date": "10-Sep-2012",
+    "Open": 5361.9,
+    "High": 5375.45,
+    "Low": 5349.1,
+    "Close": 5363.45,
+    "Shares Traded": 109607506,
+    "Turnover (Rs. Cr)": 4183.01
+  },
+  {
+    "Date": "11-Sep-2012",
+    "Open": 5336.1,
+    "High": 5393.35,
+    "Low": 5332.1,
+    "Close": 5390,
+    "Shares Traded": 112878090,
+    "Turnover (Rs. Cr)": 4081.42
+  },
+  {
+    "Date": "12-Sep-2012",
+    "Open": 5404.45,
+    "High": 5435.55,
+    "Low": 5393.95,
+    "Close": 5431,
+    "Shares Traded": 139920871,
+    "Turnover (Rs. Cr)": 4885.71
+  },
+  {
+    "Date": "13-Sep-2012",
+    "Open": 5435.2,
+    "High": 5447.45,
+    "Low": 5421.85,
+    "Close": 5435.35,
+    "Shares Traded": 110774177,
+    "Turnover (Rs. Cr)": 4199.37
+  },
+  {
+    "Date": "14-Sep-2012",
+    "Open": 5528.35,
+    "High": 5586.65,
+    "Low": 5526.95,
+    "Close": 5577.65,
+    "Shares Traded": 233783031,
+    "Turnover (Rs. Cr)": 9263.53
+  },
+  {
+    "Date": "17-Sep-2012",
+    "Open": 5631.75,
+    "High": 5652.2,
+    "Low": 5585.15,
+    "Close": 5610,
+    "Shares Traded": 258912780,
+    "Turnover (Rs. Cr)": 10924.57
+  },
+  {
+    "Date": "18-Sep-2012",
+    "Open": 5602.4,
+    "High": 5620.55,
+    "Low": 5586.45,
+    "Close": 5600.05,
+    "Shares Traded": 175488961,
+    "Turnover (Rs. Cr)": 7272.63
+  },
+  {
+    "Date": "20-Sep-2012",
+    "Open": 5536.95,
+    "High": 5581.35,
+    "Low": 5534.9,
+    "Close": 5554.25,
+    "Shares Traded": 165684942,
+    "Turnover (Rs. Cr)": 6768.88
+  },
+  {
+    "Date": "21-Sep-2012",
+    "Open": 5577,
+    "High": 5720,
+    "Low": 5575.45,
+    "Close": 5691.15,
+    "Shares Traded": 278023825,
+    "Turnover (Rs. Cr)": 11101.32
+  },
+  {
+    "Date": "24-Sep-2012",
+    "Open": 5691.95,
+    "High": 5709.85,
+    "Low": 5662.75,
+    "Close": 5669.6,
+    "Shares Traded": 210419441,
+    "Turnover (Rs. Cr)": 8380.56
+  },
+  {
+    "Date": "25-Sep-2012",
+    "Open": 5674.9,
+    "High": 5702.7,
+    "Low": 5652.45,
+    "Close": 5673.9,
+    "Shares Traded": 341387116,
+    "Turnover (Rs. Cr)": 12551.6
+  },
+  {
+    "Date": "26-Sep-2012",
+    "Open": 5653.4,
+    "High": 5672.8,
+    "Low": 5638.65,
+    "Close": 5663.45,
+    "Shares Traded": 170771069,
+    "Turnover (Rs. Cr)": 6754.98
+  },
+  {
+    "Date": "27-Sep-2012",
+    "Open": 5673.75,
+    "High": 5693.7,
+    "Low": 5639.7,
+    "Close": 5649.5,
+    "Shares Traded": 238991690,
+    "Turnover (Rs. Cr)": 9368.11
+  },
+  {
+    "Date": "28-Sep-2012",
+    "Open": 5684.8,
+    "High": 5735.15,
+    "Low": 5683.45,
+    "Close": 5703.3,
+    "Shares Traded": 163660805,
+    "Turnover (Rs. Cr)": 6948.17
+  },
+  {
+    "Date": "01-Oct-2012",
+    "Open": 5704.75,
+    "High": 5722.95,
+    "Low": 5694,
+    "Close": 5718.8,
+    "Shares Traded": 123138510,
+    "Turnover (Rs. Cr)": 4798.17
+  },
+  {
+    "Date": "03-Oct-2012",
+    "Open": 5727.7,
+    "High": 5743.25,
+    "Low": 5715.8,
+    "Close": 5731.25,
+    "Shares Traded": 165037864,
+    "Turnover (Rs. Cr)": 6654.02
+  },
+  {
+    "Date": "04-Oct-2012",
+    "Open": 5751.55,
+    "High": 5807.25,
+    "Low": 5751.35,
+    "Close": 5787.6,
+    "Shares Traded": 171404290,
+    "Turnover (Rs. Cr)": 6954.74
+  },
+  {
+    "Date": "05-Oct-2012",
+    "Open": 5815,
+    "High": 5815.35,
+    "Low": 4888.2,
+    "Close": 5746.95,
+    "Shares Traded": 255569804,
+    "Turnover (Rs. Cr)": 12995.8
+  },
+  {
+    "Date": "08-Oct-2012",
+    "Open": 5751.85,
+    "High": 5751.85,
+    "Low": 5666.2,
+    "Close": 5676,
+    "Shares Traded": 142319000,
+    "Turnover (Rs. Cr)": 5853.56
+  },
+  {
+    "Date": "09-Oct-2012",
+    "Open": 5708.15,
+    "High": 5728.65,
+    "Low": 5677.9,
+    "Close": 5704.6,
+    "Shares Traded": 119300415,
+    "Turnover (Rs. Cr)": 5047.01
+  },
+  {
+    "Date": "10-Oct-2012",
+    "Open": 5671.15,
+    "High": 5686.5,
+    "Low": 5647.05,
+    "Close": 5652.15,
+    "Shares Traded": 126294361,
+    "Turnover (Rs. Cr)": 4564.39
+  },
+  {
+    "Date": "11-Oct-2012",
+    "Open": 5663.5,
+    "High": 5721.1,
+    "Low": 5636.95,
+    "Close": 5708.05,
+    "Shares Traded": 148283847,
+    "Turnover (Rs. Cr)": 6542.71
+  },
+  {
+    "Date": "12-Oct-2012",
+    "Open": 5681.7,
+    "High": 5725,
+    "Low": 5659.35,
+    "Close": 5676.05,
+    "Shares Traded": 130076802,
+    "Turnover (Rs. Cr)": 6475.3
+  },
+  {
+    "Date": "15-Oct-2012",
+    "Open": 5674.25,
+    "High": 5693.7,
+    "Low": 5651.05,
+    "Close": 5687.25,
+    "Shares Traded": 93693482,
+    "Turnover (Rs. Cr)": 3962.97
+  },
+  {
+    "Date": "16-Oct-2012",
+    "Open": 5705.6,
+    "High": 5714,
+    "Low": 5635.6,
+    "Close": 5648,
+    "Shares Traded": 117415701,
+    "Turnover (Rs. Cr)": 5043.3
+  },
+  {
+    "Date": "17-Oct-2012",
+    "Open": 5681.1,
+    "High": 5684.35,
+    "Low": 5633.9,
+    "Close": 5660.25,
+    "Shares Traded": 123974371,
+    "Turnover (Rs. Cr)": 5259.46
+  },
+  {
+    "Date": "18-Oct-2012",
+    "Open": 5675.3,
+    "High": 5722.5,
+    "Low": 5650.55,
+    "Close": 5718.7,
+    "Shares Traded": 144097860,
+    "Turnover (Rs. Cr)": 6264.78
+  },
+  {
+    "Date": "19-Oct-2012",
+    "Open": 5703.3,
+    "High": 5711.7,
+    "Low": 5660,
+    "Close": 5684.25,
+    "Shares Traded": 124262817,
+    "Turnover (Rs. Cr)": 5410.95
+  },
+  {
+    "Date": "22-Oct-2012",
+    "Open": 5667.6,
+    "High": 5721.55,
+    "Low": 5658.05,
+    "Close": 5717.15,
+    "Shares Traded": 103372318,
+    "Turnover (Rs. Cr)": 4994.75
+  },
+  {
+    "Date": "23-Oct-2012",
+    "Open": 5715.65,
+    "High": 5720.8,
+    "Low": 5681.45,
+    "Close": 5691.4,
+    "Shares Traded": 81501427,
+    "Turnover (Rs. Cr)": 3803.5
+  },
+  {
+    "Date": "25-Oct-2012",
+    "Open": 5688.8,
+    "High": 5718.75,
+    "Low": 5685.7,
+    "Close": 5705.3,
+    "Shares Traded": 158343061,
+    "Turnover (Rs. Cr)": 7359.34
+  },
+  {
+    "Date": "26-Oct-2012",
+    "Open": 5683.55,
+    "High": 5697.2,
+    "Low": 5641.75,
+    "Close": 5664.3,
+    "Shares Traded": 101663820,
+    "Turnover (Rs. Cr)": 4718.97
+  },
+  {
+    "Date": "29-Oct-2012",
+    "Open": 5665.2,
+    "High": 5698.3,
+    "Low": 5645.1,
+    "Close": 5665.6,
+    "Shares Traded": 93555816,
+    "Turnover (Rs. Cr)": 3953.86
+  },
+  {
+    "Date": "30-Oct-2012",
+    "Open": 5656.35,
+    "High": 5689.9,
+    "Low": 5589.9,
+    "Close": 5597.9,
+    "Shares Traded": 116678775,
+    "Turnover (Rs. Cr)": 5550.86
+  },
+  {
+    "Date": "31-Oct-2012",
+    "Open": 5596.75,
+    "High": 5624.4,
+    "Low": 5583.05,
+    "Close": 5619.7,
+    "Shares Traded": 112075316,
+    "Turnover (Rs. Cr)": 4918.55
+  },
+  {
+    "Date": "01-Nov-2012",
+    "Open": 5609.85,
+    "High": 5649.75,
+    "Low": 5601.95,
+    "Close": 5645.05,
+    "Shares Traded": 107393402,
+    "Turnover (Rs. Cr)": 4633.11
+  },
+  {
+    "Date": "02-Nov-2012",
+    "Open": 5696.35,
+    "High": 5711.3,
+    "Low": 5682.55,
+    "Close": 5697.7,
+    "Shares Traded": 111162841,
+    "Turnover (Rs. Cr)": 4924.33
+  },
+  {
+    "Date": "05-Nov-2012",
+    "Open": 5693.05,
+    "High": 5709.2,
+    "Low": 5679.5,
+    "Close": 5704.2,
+    "Shares Traded": 74829213,
+    "Turnover (Rs. Cr)": 3236.08
+  },
+  {
+    "Date": "06-Nov-2012",
+    "Open": 5694.1,
+    "High": 5730.8,
+    "Low": 5693.65,
+    "Close": 5724.4,
+    "Shares Traded": 115018796,
+    "Turnover (Rs. Cr)": 4677.92
+  },
+  {
+    "Date": "07-Nov-2012",
+    "Open": 5718.6,
+    "High": 5777.3,
+    "Low": 5711.4,
+    "Close": 5760.1,
+    "Shares Traded": 133740615,
+    "Turnover (Rs. Cr)": 5242.18
+  },
+  {
+    "Date": "08-Nov-2012",
+    "Open": 5709,
+    "High": 5744.5,
+    "Low": 5693.95,
+    "Close": 5738.75,
+    "Shares Traded": 117590261,
+    "Turnover (Rs. Cr)": 4883.9
+  },
+  {
+    "Date": "09-Nov-2012",
+    "Open": 5731.1,
+    "High": 5751.7,
+    "Low": 5677.75,
+    "Close": 5686.25,
+    "Shares Traded": 98763127,
+    "Turnover (Rs. Cr)": 4833.64
+  },
+  {
+    "Date": "12-Nov-2012",
+    "Open": 5688.45,
+    "High": 5718.9,
+    "Low": 5665.75,
+    "Close": 5683.7,
+    "Shares Traded": 92702799,
+    "Turnover (Rs. Cr)": 4082.62
+  },
+  {
+    "Date": "13-Nov-2012",
+    "Open": 5689.7,
+    "High": 5698.25,
+    "Low": 5660.35,
+    "Close": 5666.95,
+    "Shares Traded": 16516842,
+    "Turnover (Rs. Cr)": 680.72
+  },
+  {
+    "Date": "15-Nov-2012",
+    "Open": 5650.35,
+    "High": 5651.65,
+    "Low": 5603.55,
+    "Close": 5631,
+    "Shares Traded": 133979470,
+    "Turnover (Rs. Cr)": 5554.05
+  },
+  {
+    "Date": "16-Nov-2012",
+    "Open": 5624.8,
+    "High": 5650.15,
+    "Low": 5559.8,
+    "Close": 5574.05,
+    "Shares Traded": 121900570,
+    "Turnover (Rs. Cr)": 4996.15
+  },
+  {
+    "Date": "19-Nov-2012",
+    "Open": 5577.3,
+    "High": 5592.75,
+    "Low": 5549.25,
+    "Close": 5571.4,
+    "Shares Traded": 106988015,
+    "Turnover (Rs. Cr)": 4336.84
+  },
+  {
+    "Date": "20-Nov-2012",
+    "Open": 5604.8,
+    "High": 5613.7,
+    "Low": 5548.35,
+    "Close": 5571.55,
+    "Shares Traded": 107481297,
+    "Turnover (Rs. Cr)": 4399.93
+  },
+  {
+    "Date": "21-Nov-2012",
+    "Open": 5582.5,
+    "High": 5620.2,
+    "Low": 5561.4,
+    "Close": 5614.8,
+    "Shares Traded": 105148728,
+    "Turnover (Rs. Cr)": 4228.47
+  },
+  {
+    "Date": "22-Nov-2012",
+    "Open": 5628.6,
+    "High": 5643.35,
+    "Low": 5608,
+    "Close": 5627.75,
+    "Shares Traded": 94058612,
+    "Turnover (Rs. Cr)": 3867.76
+  },
+  {
+    "Date": "23-Nov-2012",
+    "Open": 5635.45,
+    "High": 5637.75,
+    "Low": 5593.55,
+    "Close": 5626.6,
+    "Shares Traded": 85082220,
+    "Turnover (Rs. Cr)": 3213.06
+  },
+  {
+    "Date": "26-Nov-2012",
+    "Open": 5648.65,
+    "High": 5649.2,
+    "Low": 5623.45,
+    "Close": 5635.9,
+    "Shares Traded": 79291426,
+    "Turnover (Rs. Cr)": 3246.23
+  },
+  {
+    "Date": "27-Nov-2012",
+    "Open": 5658.5,
+    "High": 5733.2,
+    "Low": 5658,
+    "Close": 5727.45,
+    "Shares Traded": 134407735,
+    "Turnover (Rs. Cr)": 5380.95
+  },
+  {
+    "Date": "29-Nov-2012",
+    "Open": 5736.7,
+    "High": 5833.5,
+    "Low": 5736.1,
+    "Close": 5825,
+    "Shares Traded": 207295475,
+    "Turnover (Rs. Cr)": 9110.93
+  },
+  {
+    "Date": "30-Nov-2012",
+    "Open": 5836,
+    "High": 5885.25,
+    "Low": 5827.85,
+    "Close": 5879.85,
+    "Shares Traded": 257047977,
+    "Turnover (Rs. Cr)": 10777.34
+  },
+  {
+    "Date": "03-Dec-2012",
+    "Open": 5878.25,
+    "High": 5899.15,
+    "Low": 5854.6,
+    "Close": 5870.95,
+    "Shares Traded": 113423350,
+    "Turnover (Rs. Cr)": 4726.68
+  },
+  {
+    "Date": "04-Dec-2012",
+    "Open": 5866.8,
+    "High": 5894.95,
+    "Low": 5859,
+    "Close": 5889.25,
+    "Shares Traded": 131020191,
+    "Turnover (Rs. Cr)": 4816.7
+  },
+  {
+    "Date": "05-Dec-2012",
+    "Open": 5906.6,
+    "High": 5917.8,
+    "Low": 5891.35,
+    "Close": 5900.5,
+    "Shares Traded": 139653957,
+    "Turnover (Rs. Cr)": 5583.78
+  },
+  {
+    "Date": "06-Dec-2012",
+    "Open": 5926.3,
+    "High": 5942.55,
+    "Low": 5838.9,
+    "Close": 5930.9,
+    "Shares Traded": 140267080,
+    "Turnover (Rs. Cr)": 5667.65
+  },
+  {
+    "Date": "07-Dec-2012",
+    "Open": 5934,
+    "High": 5949.85,
+    "Low": 5888.65,
+    "Close": 5907.4,
+    "Shares Traded": 127607078,
+    "Turnover (Rs. Cr)": 5722.45
+  },
+  {
+    "Date": "10-Dec-2012",
+    "Open": 5916.05,
+    "High": 5919.95,
+    "Low": 5888.1,
+    "Close": 5908.9,
+    "Shares Traded": 95975757,
+    "Turnover (Rs. Cr)": 4339.84
+  },
+  {
+    "Date": "11-Dec-2012",
+    "Open": 5923.8,
+    "High": 5965.15,
+    "Low": 5865.45,
+    "Close": 5898.8,
+    "Shares Traded": 137415161,
+    "Turnover (Rs. Cr)": 6403.06
+  },
+  {
+    "Date": "12-Dec-2012",
+    "Open": 5917.8,
+    "High": 5924.6,
+    "Low": 5874.25,
+    "Close": 5888,
+    "Shares Traded": 132665649,
+    "Turnover (Rs. Cr)": 6117.63
+  },
+  {
+    "Date": "13-Dec-2012",
+    "Open": 5900.35,
+    "High": 5907.45,
+    "Low": 5841.35,
+    "Close": 5851.5,
+    "Shares Traded": 136616335,
+    "Turnover (Rs. Cr)": 5976.15
+  },
+  {
+    "Date": "14-Dec-2012",
+    "Open": 5846.9,
+    "High": 5886.1,
+    "Low": 5839.15,
+    "Close": 5879.6,
+    "Shares Traded": 115159830,
+    "Turnover (Rs. Cr)": 5012.83
+  },
+  {
+    "Date": "17-Dec-2012",
+    "Open": 5860.5,
+    "High": 5886.05,
+    "Low": 5850.15,
+    "Close": 5857.9,
+    "Shares Traded": 109547002,
+    "Turnover (Rs. Cr)": 4998.19
+  },
+  {
+    "Date": "18-Dec-2012",
+    "Open": 5873.6,
+    "High": 5905.8,
+    "Low": 5823.15,
+    "Close": 5896.8,
+    "Shares Traded": 148907334,
+    "Turnover (Rs. Cr)": 6740.66
+  },
+  {
+    "Date": "19-Dec-2012",
+    "Open": 5917.3,
+    "High": 5939.4,
+    "Low": 5910.8,
+    "Close": 5929.6,
+    "Shares Traded": 149439204,
+    "Turnover (Rs. Cr)": 6731.27
+  },
+  {
+    "Date": "20-Dec-2012",
+    "Open": 5934.45,
+    "High": 5937.6,
+    "Low": 5881.45,
+    "Close": 5916.4,
+    "Shares Traded": 123911218,
+    "Turnover (Rs. Cr)": 5390.76
+  },
+  {
+    "Date": "21-Dec-2012",
+    "Open": 5888,
+    "High": 5888,
+    "Low": 5841.65,
+    "Close": 5847.7,
+    "Shares Traded": 141152911,
+    "Turnover (Rs. Cr)": 5603.96
+  },
+  {
+    "Date": "24-Dec-2012",
+    "Open": 5869,
+    "High": 5871.9,
+    "Low": 5844.7,
+    "Close": 5855.75,
+    "Shares Traded": 85336999,
+    "Turnover (Rs. Cr)": 3433.98
+  },
+  {
+    "Date": "26-Dec-2012",
+    "Open": 5864.95,
+    "High": 5917.3,
+    "Low": 5859.55,
+    "Close": 5905.6,
+    "Shares Traded": 83871326,
+    "Turnover (Rs. Cr)": 3447.53
+  },
+  {
+    "Date": "27-Dec-2012",
+    "Open": 5930.2,
+    "High": 5930.8,
+    "Low": 5864.7,
+    "Close": 5870.1,
+    "Shares Traded": 139613235,
+    "Turnover (Rs. Cr)": 5955.51
+  },
+  {
+    "Date": "28-Dec-2012",
+    "Open": 5887.15,
+    "High": 5915.75,
+    "Low": 5879.5,
+    "Close": 5908.35,
+    "Shares Traded": 89669021,
+    "Turnover (Rs. Cr)": 3863.47
+  }
+]
