@@ -1,9 +1,11 @@
 # Robert-Lafore
+
 Object-Oriented Programming in C++
 
 Solutions to exercises.
 
 ## Chapter 2: C++ Programming Basics
+
 This chapter introduces some basic fundamentals to write some elementry program in C++. It introduces three such fundamentals: basic programming construction, variables, and input/output (I/O).
 
 |Ques. No.|Pg. No.|Question|Solution|
@@ -22,6 +24,7 @@ This chapter introduces some basic fundamentals to write some elementry program 
 |12.|73|Currency Conversion|[C++](./phoenix/Chapter-2/12.cpp)|
 
 ## Chapter 3: Loops and Decisions
+
 In this chapter loops and decisions statements are introduced. This chapter teaches us some fundamentals of loop and decisions along with some detail descritions.
 
 |Ques. No.|Pg. No.|Question|Solution|
@@ -40,6 +43,7 @@ In this chapter loops and decisions statements are introduced. This chapter teac
 |12.|129|Fraction Calculator|[C++](./phoenix/Chapter-3/12.cpp)|
 
 ## Chapter 4: Structures
+
 This chapter is devoted to structures. It teaches us to organsie some simple variables into complex entities. In other words we can say that it helps to create some user define data types.
 
 |Ques. No.|Pg. No.|Question|Solution|
@@ -58,6 +62,7 @@ This chapter is devoted to structures. It teaches us to organsie some simple var
 |12.|160|Fraction calculator|[C++](./phoenix/Chapter-4/12.cpp)|
 
 ## Chapter 5: Functions
+
 This chapter is dedicated to functions. A function groups a number of program statements into a unit and give it a name. Function helps to aid in the conceptual organization of a programs.
 
 |Ques. No.|Pg. No.|Question|Solution|
@@ -76,6 +81,7 @@ This chapter is dedicated to functions. A function groups a number of program st
 |12.|213|Calculator|[C++](./phoenix/Chapter-5/12.cpp)|
 
 ## Chapter 6: Objects and Classes
+
 This chapter introduces the concepts of class and objects. Class is a specification or blueprint for a number of objects while an Object is an instance of a Class.
 
 |Ques. No.|Pg. No.|Question|Solution|
@@ -94,6 +100,7 @@ This chapter introduces the concepts of class and objects. Class is a specificat
 |12.|262|Fraction Mul. Table|[C++](./phoenix/Chapter-6/12.cpp)|
 
 ## Chapter 7: Arrays and Strings
+
 In this chapter we’ll look first at arrays of basic data types such as int and char . Then we’ll examine arrays used as data members in classes, and arrays used to hold objects. Thus this chapter is intended not only to introduce arrays, but to increase your understanding of object-oriented programming.
 
 |Ques. No.|Pg. No.|Question|Solution|
@@ -112,4 +119,5 @@ In this chapter we’ll look first at arrays of basic data types such as int and
 |12.|317|String to long doube|[C++](./phoenix/Chapter-7/12.cpp)|
 
 ## Chapter 8:
+
 In this chapter we’ll look first at arrays of basic data types such as int and char . Then we’ll examine arrays used as data members in classes, and arrays used to hold objects. Thus this chapter is intended not only to introduce arrays, but to increase your understanding of object-oriented programming.
