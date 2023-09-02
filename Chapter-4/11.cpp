@@ -27,7 +27,7 @@ int main(){
     int total_secs = total_secs1 + total_secs2;
 
     time3.hours = total_secs/3600;
-    time3.mins = time3.hours%3600;
+    time3.mins = (time3.hours%3600)/60;
     time3.secs = total_secs%60;
 
     cout << "Addition of above input time is: " << time3.hours << ":" << time3.mins << ":" << time3.secs << endl;
